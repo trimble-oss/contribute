@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Getting Started
 
-You can use the [editor on GitHub](https://github.com/trimble-oss/contribute/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Note: these instructions only apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Add the `GitHub - Trimble` application from your Okta homepage.
+- While waiting for approval send a [Request to Join](#request-to-join) email.
 
-### Markdown
+### Request to Join
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Use the following template to prepare and send an email to [trimble-oss-contrib-admins-ug@trimble.com](mailto:trimble-oss-contrib-admins-ug@trimble.com). Note: This email account will not accept messages from outside Trimble.
 
-```markdown
-Syntax highlighted code block
+```text
 
-# Header 1
-## Header 2
-### Header 3
+Dear Trimble OSS Contributor Administrators,
 
-- Bulleted
-- List
+I have completed the process of adding the GitHub - Trimble 
+application to my Okta account. Please grant access for my 
+GitHub account:
 
-1. Numbered
-2. List
+{ @yourgithubaccount }
 
-**Bold** and _Italic_ and `Code` text
+I would like to join as a:
 
-[Link](url) and ![Image](src)
+{ Collaborator/Contributor - see "Roles" below. }
+
+{ Tell us a bit about yourself and your role at Trimble. }
+
+{ Describe your reasons for wanting to join. }
+
+Thanks,
+
+{your name}
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Roles
 
-### Jekyll Themes
+- **Collaborator**: for those who need project visibility, but do not intend to contribute code.
+- **Contributor**: for those who intend to contribute code.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trimble-oss/contribute/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Reasons to Join
 
-### Support or Contact
+- Desire to contibute to a particular repository or initiative, such as Trimble Modus.
+- Desire to set up an organiation within the Trimble GitHub enterprise.
+- Desire to join an existing organization within the Trimble GitHub enterprise.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Next Steps
+
+- Ensure you have replaced the default GitHub account avatar with something that uniquely identifies you.
+- Read the [Contributor Guidelines](/guidelines/index.md)
+
