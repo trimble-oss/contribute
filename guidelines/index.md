@@ -11,8 +11,8 @@ Make sure you have first read and followed the instructions in the [README](../R
     - See [About authentication with SAML single sign-on](https://docs.github.com/en/github/authenticating-to-github/about-authentication-with-saml-single-sign-on)
 
       ```text
-      To use the API or Git on the command line to access protected content in an 
-      organization that uses SAML SSO, you will need to use an authorized personal 
+      To use the API or Git on the command line to access protected content in an
+      organization that uses SAML SSO, you will need to use an authorized personal
       access token over HTTPS
       ```
 
@@ -79,11 +79,11 @@ Recommended: VS Code is a wonderful editor for git commits, merges and diffs. If
 
 #### Create a Fork
 
-Create a Fork of the [primary repository (https://github.com/trimble-oss/{repository-name})](https://github.com/trimble-oss/{repository-name}) you will be contributing to. Click onthe `Fork` button on the top right of that page in your browser when on the GitHub website.
+Create a Fork of the [primary repository (https://github.com/trimble-oss/{repository-name})](https://github.com/trimble-oss/{repository-name}) you will be contributing to. Click on the `Fork` button on the top right of that page in your browser when on the GitHub website.
 
 #### Clone your Fork Locally
 
-From a command line, clone your forked repository to your `~/work/trimble` folder. For example, <https://github.com/github-user-name/{repository-name}>. 
+From a command line, clone your forked repository to your `~/work/trimble` folder. For example, <https://github.com/github-user-name/{repository-name}>.
 
 **Note - *do not* clone the primary repository. Clone your fork.**
 

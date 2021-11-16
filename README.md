@@ -13,8 +13,8 @@ Use the following template to prepare and send an email to [trimble-oss-contrib-
 
 Dear Trimble OSS Contributor Administrators,
 
-I have completed the process of adding the GitHub - Trimble 
-application to my Okta account. Please grant access for my 
+I have completed the process of adding the GitHub - Trimble
+application to my Okta account. Please grant access for my
 GitHub account:
 
 { @yourgithubaccount }
@@ -40,12 +40,11 @@ Thanks,
 
 ### Reasons to Join
 
-- Desire to contibute to a particular repository or initiative, such as Trimble Modus.
-- Desire to set up an organiation within the Trimble GitHub enterprise.
+- Desire to contribute to a particular repository or initiative, such as Trimble Modus.
+- Desire to set up an organization within the Trimble GitHub enterprise.
 - Desire to join an existing organization within the Trimble GitHub enterprise.
 
 ### Next Steps
 
 - Ensure you have replaced the default GitHub account avatar with something that uniquely identifies you.
 - Read the [Contributor Guidelines](/guidelines/index.md)
-
