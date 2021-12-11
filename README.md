@@ -1,3 +1,5 @@
+![Trimble <3 GitHub](/assets/img/trimble-heart-github.png)
+
 ## Getting Started
 
 Note: these instructions only apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
