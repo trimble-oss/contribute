@@ -4,6 +4,7 @@ Note: these instructions only apply to Trimble employees. These guidelines will 
 
 - Add the `GitHub - Trimble` application from your Okta homepage.
 - While waiting for approval send a [Request to Join](#request-to-join) email.
+- Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
 
 ### Request to Join
 
