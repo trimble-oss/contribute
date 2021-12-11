@@ -4,8 +4,11 @@
 
 Note: these instructions only apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
 
+- Create a GitHub account if you don't already have one.
+- Ensure you have replaced the default GitHub account avatar with something that uniquely identifies you.
 - Add the `GitHub - Trimble` application from your Okta homepage.
 - While waiting for approval send a [Request to Join](#request-to-join) email.
+- Read the [Contributor Guidelines](/guidelines/index.md)
 - Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
 
 ### Request to Join
@@ -46,8 +49,3 @@ Thanks,
 - Desire to contribute to a particular repository or initiative, such as Trimble Modus.
 - Desire to set up an organization within the Trimble GitHub enterprise.
 - Desire to join an existing organization within the Trimble GitHub enterprise.
-
-### Next Steps
-
-- Ensure you have replaced the default GitHub account avatar with something that uniquely identifies you.
-- Read the [Contributor Guidelines](/guidelines/index.md)
