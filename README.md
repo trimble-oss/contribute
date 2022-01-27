@@ -6,10 +6,9 @@ Note: these instructions only apply to Trimble employees. These guidelines will 
 
 **Please be sure you read through the following bullet points and take any necessary action.**
 
+- Add the `GitHub - Trimble` application from your Okta homepage.
 - Create a GitHub account if you don't already have one.[^1]
 - **Replace the default GitHub account avatar with something that uniquely identifies you.**
-- Add the `GitHub - Trimble` application from your Okta homepage.
-- While waiting for approval send a [Request to Join](#request-to-join) email.
 - **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
 - Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
 
@@ -19,11 +18,10 @@ Use the following template to prepare and send an email to [trimble-oss-contrib-
 
 ```text
 
-Dear Trimble OSS Contributor Administrators,
+Dear Trimble GitHub Enterprise Administrators,
 
-I have completed the process of adding the GitHub - Trimble
-application to my Okta account. Please grant access for my
-GitHub account:
+I have added the GitHub - Trimble application to my Okta account. Please
+grant access for my GitHub account:
 
 { @yourgithubaccount }
 
@@ -31,9 +29,9 @@ GitHub account:
 
 I am joining because I...
 
-{ Desire to contribute to a particular repository or initiative, such as Trimble Modus. }
-{ Desire to set up an organization within the Trimble GitHub enterprise. }
-{ Desire to join an existing organization within the Trimble GitHub enterprise. }
+{ desire to contribute to a particular repository or initiative, such as Trimble Modus. }
+{ desire to set up an organization within the Trimble GitHub enterprise. }
+{ desire to join an existing organization within the Trimble GitHub enterprise. }
 { etc. }
 
 Thanks,
