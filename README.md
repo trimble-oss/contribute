@@ -4,11 +4,13 @@
 
 Note: these instructions only apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
 
-- Create a GitHub account if you don't already have one.
-- Ensure you have replaced the default GitHub account avatar with something that uniquely identifies you.
+**Please be sure you read through the following bullet points and take any necessary action.**
+
+- Create a GitHub account if you don't already have one.[^1]
+- **Replace the default GitHub account avatar with something that uniquely identifies you.**
 - Add the `GitHub - Trimble` application from your Okta homepage.
 - While waiting for approval send a [Request to Join](#request-to-join) email.
-- Read the [Contributor Guidelines](/guidelines/index.md)
+- **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
 - Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
 
 ### Request to Join
@@ -25,13 +27,14 @@ GitHub account:
 
 { @yourgithubaccount }
 
-I would like to join as a:
-
-{ Collaborator/Contributor - see "Roles" below. }
-
 { Tell us a bit about yourself and your role at Trimble. }
 
-{ Describe your reasons for wanting to join. }
+I am joining because I...
+
+{ Desire to contribute to a particular repository or initiative, such as Trimble Modus. }
+{ Desire to set up an organization within the Trimble GitHub enterprise. }
+{ Desire to join an existing organization within the Trimble GitHub enterprise. }
+{ etc. }
 
 Thanks,
 
@@ -39,13 +42,4 @@ Thanks,
 
 ```
 
-### Roles
-
-- **Collaborator**: for those who need project visibility, but do not intend to contribute code.
-- **Contributor**: for those who intend to contribute code.
-
-### Reasons to Join
-
-- Desire to contribute to a particular repository or initiative, such as Trimble Modus.
-- Desire to set up an organization within the Trimble GitHub enterprise.
-- Desire to join an existing organization within the Trimble GitHub enterprise.
+[^1]: You can use a personal GitHub account or create a work specific one, it's up to you. Trimble SSO will work with either.
