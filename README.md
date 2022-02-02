@@ -1,6 +1,6 @@
 **🔍 Looking for [Trimble Open Source](https://github.com/trimble-oss)?**
 
-![Trimble <3 GitHub](/assets/img/trimble-heart-github.png)
+![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
 
 ## Getting Started
 
