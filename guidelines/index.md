@@ -1,6 +1,8 @@
 ## Contributor Guidelines
 
-Make sure you have first read and followed the instructions in the [README](../README.md).
+**Make sure you have first read and followed the instructions in the [README](../README.md).**
+
+***This includes making sure that you've sent your request to join the Trimble GitHub Enterprise and that you have successfully logged in to your GitHub account. Otherwise, creating a PAT will fail.***
 
 ### Contributor GitHub Access Configuration
 
