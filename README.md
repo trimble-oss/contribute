@@ -1,10 +1,10 @@
-**🔍 Looking for [Trimble Open Source](https://github.com/trimble-oss)?**
+🔍 Already set up? You can **Go straight to the [Trimble GitHub Organization](https://github.com/trimble-oss)**!
 
 ![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
 
 ## Getting Started
 
-Note: these instructions only apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
+Note: these instructions currently apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
 
 **Please be sure you read through the following bullet points and take any necessary action.**
 
@@ -16,7 +16,7 @@ Note: these instructions only apply to Trimble employees. These guidelines will 
 
 ### Request to Join
 
-Use the following template to prepare and send an email to [trimble-oss-contrib-admins-ug@trimble.com](mailto:trimble-oss-contrib-admins-ug@trimble.com). Note: This email account will not accept messages from outside Trimble.
+Use the following template to prepare and [send us an email](mailto:trimble-oss-contrib-admins-ug@trimble.com) with you request to join the Trimble GitHub organization and enterprise.
 
 ```text
 
@@ -32,7 +32,6 @@ grant access for my GitHub account:
 I am joining because I...
 
 { desire to contribute to a particular repository or initiative, such as Trimble Modus. }
-{ desire to set up an organization within the Trimble GitHub enterprise. }
 { desire to join an existing organization within the Trimble GitHub enterprise. }
 { etc. }
 
