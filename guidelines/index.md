@@ -22,7 +22,8 @@
 
 #### Create a folder for all of your Trimble related work
 
-- If it doesn't exist already, create a directory under your user directory (`~/`) for your Trimble related work called `~/work/trimble`.
+- If it doesn't exist already, create a directory under your user directory (`~/`) for your Trimble related work called `~/work/trimble`. 
+<br>*Note: Your user directory is located at `%HOMEPATH%` in the Windows command line or Explorer*
 - You will clone all of your Trimble related repositories in the `~/work/trimble` folder.
 - Create a `.gitconfig` file in the `~/work/trimble` folder that specifies your name and company email. For example:
 
@@ -34,7 +35,8 @@
 
 #### Edit your global user `.gitconfig`
 
-- In your top level user folder, `~/` you should have a `.gitconfig` file.
+- In your top level user folder, `~/` you should have a `.gitconfig` file. 
+<br>*Windows typically located at `%LOCALAPPDATA%\Programs\Git\etc\gitconfig`*
 - Edit your global user `~/.gitconfig` to include the following sections:
 
 ```ini
@@ -55,7 +57,7 @@ Recommended: VS Code is a wonderful editor for git commits, merges and diffs. If
 
 ```ini
 [core]
-    editor = code --wait
+    editor = code --wait -n
     autocrlf = input
 
 [merge]
