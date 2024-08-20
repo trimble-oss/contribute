@@ -1,6 +1,6 @@
 🔍 Already set up? You can **Go straight to the [Trimble GitHub Organization](https://github.com/trimble-oss)**!
 
-🔍 Looking for **GitHub CoPilot**?
+🔍 Looking for **GitHub Copilot**?
   - [Request a License](https://support.trimble.cloud/support/catalog/items/42)
   - Read the [Getting Started Guide](https://docs.google.com/document/d/1qsuPPdbuDQxzii2c9ucvwdWsNRAf09mAwMOpzUjt5UQ/edit#heading=h.kt03vcur1pr9)
 
