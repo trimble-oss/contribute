@@ -1,14 +1,16 @@
-🔍 Already set up? You can **Go straight to the [Trimble GitHub Organization](https://github.com/trimble-oss)**!
+![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
+
+## Need Help?
+
+First, please make sure you have read and followed all of the [instructions below](#getting-started). If you still need help, please request assistance via the [Trimble GitHub Charlie Page](https://charlie.trimble.com/channels/204800003/TrimbleGitHub).
+
+🔍 Already set up? You can **Go straight to the [Trimble GitHub Organization](https://github.com/trimble-oss)**
 
 🔍 Looking for **GitHub Copilot**?
   - [Request a License](https://support.trimble.cloud/support/catalog/items/42)
   - Read the [Getting Started Guide](https://docs.google.com/document/d/1qsuPPdbuDQxzii2c9ucvwdWsNRAf09mAwMOpzUjt5UQ/edit#heading=h.kt03vcur1pr9)
 
-![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
-
 ## Getting Started
-
-Note: these instructions currently apply to Trimble employees. These guidelines will be updated in the future for projects that accept outside contributions.
 
 **Please be sure you read through the following bullet points and take any necessary action.**
 
@@ -26,10 +28,9 @@ Use the following template to prepare and [send us an email](mailto:trimble-oss-
 
 Dear Trimble GitHub Enterprise Administrators,
 
-I have added the GitHub - Trimble application to my Okta account. Please
-grant access for my GitHub account:
+I have added the GitHub - Trimble application to my Okta account. Please grant access for my GitHub account:
 
-{ @yourgithubaccount }
+<@yourgithubaccount>
 
 { Tell us a bit about yourself and your role at Trimble. }
 
@@ -45,4 +46,4 @@ Thanks,
 
 ```
 
-[^1]: You can use a personal GitHub account or create a work specific one, it's up to you. Trimble SSO will work with either.
+[^1]: ~~You can use a personal GitHub account or create a work specific one, it's up to you. Trimble SSO will work with either.~~ **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
