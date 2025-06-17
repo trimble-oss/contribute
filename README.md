@@ -46,4 +46,4 @@ Thanks,
 
 ```
 
-[^1]: ~~You can use a personal GitHub account or create a work specific one, it's up to you. Trimble SSO will work with either.~~ **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
+[^1]: **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
