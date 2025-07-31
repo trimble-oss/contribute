@@ -1,7 +1,6 @@
 ![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
 
-| [Help](#need-help) | [Getting Started](#getting-started) | [Publishing](#publishing) | [Copilot](#github-copilot) |
-|-|-|-|-|
+[Help](#need-help) | [Getting Started](#getting-started) | [Publishing](#publishing) | [Copilot](#github-copilot)
 
 ## Need Help?
 
