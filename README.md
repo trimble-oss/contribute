@@ -1,21 +1,21 @@
 ![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
 
+| [Help](#need-help) | [Getting Started](#getting-started) | [Publishing](#publishing) | [Copilot](#github-copilot) |
+|-|-|-|-|
+
 ## Need Help?
 
 First, please make sure you have read and followed all of the [instructions below](#getting-started). If you still need help, please request assistance via the [Trimble GitHub Charlie Page](https://charlie.trimble.com/channels/204800003/TrimbleGitHub).
 
 🔍 Already set up? You can **Go straight to the [Trimble GitHub Organization](https://github.com/trimble-oss)**
 
-🔍 Looking for **GitHub Copilot**?
-  - [Request a License](https://support.trimble.cloud/support/catalog/items/42)
-  - Read the [Getting Started Guide](https://docs.google.com/document/d/1qsuPPdbuDQxzii2c9ucvwdWsNRAf09mAwMOpzUjt5UQ/edit#heading=h.kt03vcur1pr9)
-
 ## Getting Started
 
 **Please be sure you read through the following bullet points and take any necessary action.**
 
 - Add the `GitHub - Trimble` application from your Okta homepage.
-- Create a GitHub account if you don't already have one.[^1]
+- Create a GitHub account if you don't already have one.
+  - **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
 - **Replace the default GitHub account avatar with something that uniquely identifies you.**
 - **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
 - Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
@@ -46,4 +46,16 @@ Thanks,
 
 ```
 
-[^1]: **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
+## Publishing
+
+**Ready to publish a project to the public?**
+
+- Read and ensure all requirements are met in the [Trimble OSS - Open Source Publication Policies and Procedures](https://docs.google.com/document/d/1zL_qjgBfECiQ-3KtYRFgVi3zZESPpSYF1mVi755cu_M)
+- Contact [trimble-oss-contrib-admins-ug@trimble.com](mailto:trimble-oss-contrib-admins-ug@trimble.com) when you are ready for a pre-publication review and we will work with you to get your project published
+
+## Github Copilot
+
+🔍 Looking for **GitHub Copilot**?
+  - [Request a License](https://support.trimble.cloud/support/catalog/items/42)
+  - Read the [Getting Started Guide](https://docs.google.com/document/d/1qsuPPdbuDQxzii2c9ucvwdWsNRAf09mAwMOpzUjt5UQ/edit#heading=h.kt03vcur1pr9)
+
