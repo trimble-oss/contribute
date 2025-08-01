@@ -1,0 +1,1 @@
+To start contributing to Trimble OSS and ensure that you've been added to the organization [please read through our quickstart instructions.](https://trimble-oss.github.io/contribute/#getting-started)
