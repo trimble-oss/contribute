@@ -4,8 +4,8 @@
 
 | Name            | Email                     | Username          |
 |-----------------|---------------------------|-------------------|
-| Alex Martinez   | alex_martinez@trimble.com | @alexmartinez     |
-| Priya Shah      | priya_shah@trimble.com    | @priyashah        |
-| Jordan Lee      | jordan_lee@trimble.com    | @jordanlee        |
-| Emily Chen      | emily_chen@trimble.com    | @emchen           |
+| Jeff Doolittle   | jeffrey_doolittle@trimble.com | @jeff-at-trimble     |
+| Christian Oliff  | christian_oliff@trimble.com    | @coliff       |
+| Tyler Ulrich      | tyler_ulrich@trimble.com  | @tulrichtrimble        |
+| Isaac Brickner      | Isaac_brickner@trimble.com   | @isaacbricknertrimble       |
 
