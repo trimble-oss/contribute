@@ -19,25 +19,31 @@ First, please make sure you have read and followed all of the [instructions belo
 - **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
 - Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
 
-### Request to Join
+### Request to Join an Organization
 
-Use the following template to prepare and [send us an email](mailto:trimble-oss-contrib-admins-ug@trimble.com) with you request to join the Trimble GitHub organization and enterprise.
+The following instructions are sufficient for both adding you as a licensed Trimble GitHub user, and for receiving an invitation to join the **`trimble-oss`** organization.
+
+**If you want to join a different organization**, please continue to follow the instructions below to receive a Trimble license for GitHub. However, you will also need to specifically request access to that organization by finding and contacting an [administrator for that organization](https://trimble.domo.com/page/876535730).
+
+---
+
+Use the following template to prepare and [send an email to the admins mailing list](mailto:trimble-oss-contrib-admins-ug@trimble.com) requesting to join.
+
+**Please include your GitHub username**, *not* your Trimble email address in your message.
 
 ```text
 
-Dear Trimble GitHub Enterprise Administrators,
+Dear Trimble GitHub Administrators,
 
 I have added the GitHub - Trimble application to my Okta account. Please grant access for my GitHub account:
 
-<@yourgithubaccount>
+@yourgithubusername (not your Trimble email address)
 
 { Tell us a bit about yourself and your role at Trimble. }
 
 I am joining because I...
 
-{ desire to contribute to a particular repository or initiative, such as Trimble Modus. }
-{ desire to join an existing organization within the Trimble GitHub enterprise. }
-{ etc. }
+{ why you want to join GitHub }
 
 Thanks,
 
