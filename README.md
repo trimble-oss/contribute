@@ -37,13 +37,17 @@ Dear Trimble GitHub Administrators,
 
 I have added the GitHub - Trimble application to my Okta account. Please grant access for my GitHub account:
 
-@yourgithubusername (not your Trimble email address)
+@yourgithubusername (not your Trimble email address!!!)
 
 { Tell us a bit about yourself and your role at Trimble. }
 
 I am joining because I...
 
 { why you want to join GitHub }
+
+The accountable person or Trimble division that will pay for a new GitHub user license if needed will be:
+
+{ name of accountable person or name of your division }
 
 Thanks,
 
