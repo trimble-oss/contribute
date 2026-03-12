@@ -64,13 +64,7 @@ Thanks,
 
 ## Open & Inner Source Policy Compliance
 
-All repositories in the `trimble-oss` GitHub organization must conform to the [Open and Inner Source Publication Policies and Procedures](https://github.com/trimble-oss/oss-overseer/blob/main/Open%20and%20Inner%20Source%20Publication%20Policies%20and%20Procedures.md), which are maintained in the [oss-overseer](https://github.com/trimble-oss/oss-overseer) repository.
-
-### Key Requirements
-
-- **Security** — Public and internal repos must enable security advisories, Dependabot alerts, and secret scanning. Public repos must also enable code scanning. There must be zero critical or high vulnerabilities at all times.
-- **Content** — Public repos must include `SECURITY.md` and a `LICENSE` (from the approved list). All public and internal repos must have at least one maintainer-identity file (`MAINTAINERS.md` or `CODEOWNERS`). Repos should also include `README.md`, `CODE_OF_CONDUCT.md`, and `CONTRIBUTING.md`.
-- **Licensing** — Public repo licenses must be on the [approved list](https://docs.google.com/spreadsheets/d/1So3IvPqqb9hEhJEiihWUIreepKsOiv9Ti4ALmHfePi8/edit?usp=drive_link).
+All repositories in the `trimble-oss` GitHub organization must conform to the [Open and Inner Source Publication Policies and Procedures](https://github.com/trimble-oss/oss-overseer/blob/main/Open%20and%20Inner%20Source%20Publication%20Policies%20and%20Procedures.md), which are maintained in the [oss-overseer](https://github.com/trimble-oss/oss-overseer) repository. See [Open and Inner Source Publication Policies and Procedures](https://github.com/trimble-oss/oss-overseer/blob/main/Open%20and%20Inner%20Source%20Publication%20Policies%20and%20Procedures.md) for detailed requirements.
 
 ### Automated Audits & Enforcement
 
