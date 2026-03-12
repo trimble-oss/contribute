@@ -1,6 +1,6 @@
 ![Trimble <3 GitHub](/assets/img/trimble-heart-github.svg)
 
-[Help](#need-help) | [Getting Started](#getting-started) | [Publishing](#publishing) | [Copilot](#github-copilot)
+[Help](#need-help) | [Getting Started](#getting-started) | [Publishing](#publishing) | [Policy Compliance](#open--inner-source-policy-compliance) | [Copilot](#github-copilot)
 
 ## Need Help?
 
@@ -61,6 +61,26 @@ Thanks,
 
 - Read and ensure all requirements are met in the [Trimble OSS - Open Source Publication Policies and Procedures](https://docs.google.com/document/d/1zL_qjgBfECiQ-3KtYRFgVi3zZESPpSYF1mVi755cu_M)
 - Contact [trimble-oss-contrib-admins-ug@trimble.com](mailto:trimble-oss-contrib-admins-ug@trimble.com) when you are ready for a pre-publication review and we will work with you to get your project published
+
+## Open & Inner Source Policy Compliance
+
+All repositories in the `trimble-oss` GitHub organization must conform to the [Open and Inner Source Publication Policies and Procedures](https://github.com/trimble-oss/oss-overseer/blob/main/Open%20and%20Inner%20Source%20Publication%20Policies%20and%20Procedures.md), which are maintained in the [oss-overseer](https://github.com/trimble-oss/oss-overseer) repository.
+
+### Key Requirements
+
+- **Security** — Public and internal repos must enable security advisories, Dependabot alerts, and secret scanning. Public repos must also enable code scanning. There must be zero critical or high vulnerabilities at all times.
+- **Content** — Public repos must include `SECURITY.md` and a `LICENSE` (from the approved list). All public and internal repos must have at least one maintainer-identity file (`MAINTAINERS.md` or `CODEOWNERS`). Repos should also include `README.md`, `CODE_OF_CONDUCT.md`, and `CONTRIBUTING.md`.
+- **Licensing** — Public repo licenses must be on the [approved list](https://docs.google.com/spreadsheets/d/1So3IvPqqb9hEhJEiihWUIreepKsOiv9Ti4ALmHfePi8/edit?usp=drive_link).
+
+### Automated Audits & Enforcement
+
+A weekly automated audit checks every public and internal repository against these policies. Results are published as a [Policy Audit Report](https://github.com/orgs/trimble-oss/discussions/categories/policy-audit-reports) discussion and committed to the [oss-overseer reports](https://github.com/trimble-oss/oss-overseer/tree/main/reports) directory. Repositories with unresolved **MUST** violations may be automatically delisted (public → internal, internal → private). Once all violations are resolved, repositories are automatically relisted.
+
+### Getting Compliant
+
+To bring a repository into compliance, maintainers can use the [oss-compliance Copilot prompt](https://github.com/trimble-oss/oss-overseer/blob/main/.github/prompts/oss-compliance.prompt.md) in VS Code with GitHub Copilot enabled.
+
+For the full policy details, see the [Open and Inner Source Publication Policies and Procedures](https://github.com/trimble-oss/oss-overseer/blob/main/Open%20and%20Inner%20Source%20Publication%20Policies%20and%20Procedures.md).
 
 ## Github Copilot
 
