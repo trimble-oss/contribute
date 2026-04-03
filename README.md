@@ -76,7 +76,7 @@ To bring a repository into compliance, maintainers can use the [oss-compliance C
 
 For the full policy details, see the [Open and Inner Source Publication Policies and Procedures](https://github.com/trimble-oss/oss-overseer/blob/main/Open%20and%20Inner%20Source%20Publication%20Policies%20and%20Procedures.md).
 
-## Github Copilot
+## GitHub Copilot
 
 🔍 Looking for **GitHub Copilot**?
   - [Request a License](https://support.trimble.cloud/support/catalog/items/42)
