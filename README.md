@@ -17,7 +17,7 @@ First, please make sure you have read and followed all of the [instructions belo
   - **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
 - **Replace the default GitHub account avatar with something that uniquely identifies you.**
 - **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
-- Join the [Trimble GitHub Channel on Charlie](https://app.happeo.com/channels/204800003/TrimbleGithub)!
+- Join the [Trimble GitHub Channel on Charlie](https://charlie.trimble.com/charlie/ls/space/7178977117057795/trimble-github/home)!
 
 ### Request to Join an Organization
 
