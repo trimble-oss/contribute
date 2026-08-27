@@ -12,48 +12,19 @@ First, please make sure you have read and followed all of the [instructions belo
 
 **Please be sure you read through the following bullet points and take any necessary action.**
 
-- Add the `GitHub - Trimble` application from your Okta homepage.
-- Create a GitHub account if you don't already have one.
-  - **Update**: It is now recommended that you create a Trimble specific GitHub account rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
-- **Replace the default GitHub account avatar with something that uniquely identifies you.**
-- **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
-- Join the [Trimble GitHub Channel on Charlie](https://charlie.trimble.com/charlie/ls/space/7178977117057795/trimble-github/home)!
+- ⭐ Add the `GitHub - Trimble` application from your Okta homepage.
+- ⭐ Create a GitHub account if you don't already have one.
+  - **Update**: It is recommended that you **create a Trimble specific GitHub account** rather than using an existing personal GitHub username. This is particularly important if you want to use GitHub Copilot as using a personal GitHub account risks combining personal data and business data.
+- ⭐ **Replace the default GitHub account avatar with something that uniquely identifies you.**
+- ⭐ **Read the [Contributor Guidelines](/guidelines/index.md). No really, we mean it, read them!**
+- ⭐ Join the [Trimble GitHub Channel on Charlie](https://charlie.trimble.com/charlie/ls/space/7178977117057795/trimble-github/home)!
+- 🎯 Now you are ready to request to join!
 
 ### Request to Join an Organization
 
-The following instructions are sufficient for both adding you as a licensed Trimble GitHub user, and for receiving an invitation to join the **`trimble-oss`** organization.
+Complete the [request to join form](https://trimblecloudops.atlassian.net/servicedesk/customer/portal/6/create/4904) to request access to the `trimble-oss` organization.
 
-**If you want to join a different organization**, please continue to follow the instructions below to receive a Trimble license for GitHub. However, you will also need to specifically request access to that organization by finding and contacting an [administrator for that organization](https://trimble.domo.com/page/876535730).
-
----
-
-Use the following template to prepare and [send an email to the admins mailing list](mailto:trimble-oss-contrib-admins-ug@trimble.com) requesting to join.
-
-**Please include your GitHub username**, *not* your Trimble email address in your message.
-
-```text
-
-Dear Trimble GitHub Administrators,
-
-I have added the GitHub - Trimble application to my Okta account. Please grant access for my GitHub account:
-
-@yourgithubusername (not your Trimble email address!!!)
-
-{ Tell us a bit about yourself and your role at Trimble. }
-
-I am joining because I...
-
-{ why you want to join GitHub }
-
-The accountable person or Trimble division that will pay for a new GitHub user license if needed will be:
-
-{ name of accountable person or name of your division }
-
-Thanks,
-
-{your name}
-
-```
+**If you want to join a different organization**, you can still complete the [request to join form](https://trimblecloudops.atlassian.net/servicedesk/customer/portal/6/create/4904) to receive a Trimble license for GitHub. However, you will also need to specifically request access to that organization by finding and contacting an [administrator for that organization](https://trimble.domo.com/page/876535730).
 
 ## Publishing
 
